@@ -86,6 +86,15 @@ public final class Slot_calc extends JavaPlugin implements CommandExecutor {
                     return true;
                 }
             }
+            default_Stock = 0;
+            add_Stock = 0;
+            bet = 0;
+            time = 0;
+            number_Of_Times = 0;
+            stock_Calc = 0;
+            bet_Calc = 0;
+            time_Calc = 0;
+            number_Of_Times_calc = 0;
         }
         return false;
     }
