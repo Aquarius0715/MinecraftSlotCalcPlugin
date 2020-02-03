@@ -1,0 +1,8 @@
+name: Slot_calc_Plugin
+version: 1.0.0
+main: aquarius0715.slot_calc.Slot_calc
+api-version: 1.12.2
+commands:
+  slotcalc:
+    description: slotcalc
+    usage: /<command>
